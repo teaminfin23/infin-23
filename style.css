@@ -11,7 +11,7 @@ html {
 }
 
 h1 {
-  font-size: 3rem;
+  font-size: 2rem;
   color: white;
   text-transform: uppercase;
 }
@@ -39,5 +39,5 @@ hr {
 }
 
 .buffer {
-  height: 8rem;
+  height: 5rem;
 }
